@@ -20,7 +20,7 @@ para clonar o projeto, e necessario ter o Node e o expo cli instalados
 
 ```bash
   git clone https://github.com/Italovini223/todo.git
-
+```
 
 Para instalar as dependencias
 
