@@ -20,7 +20,7 @@ export const Border = styled.View`
 export const Img = styled.Image`
   width: 56px;
   height: 56px;
-  margin-top: 5px;
+  margin-top: 48px;
 `;
 
 export const TextBold = styled.Text`
